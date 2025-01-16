@@ -1,4 +1,21 @@
-Análise de dados sobre a saúde mental no mundo.
+Análise de Dados sobre a Saúde Mental no Mundo
 
-As consultas e análises foram feitas a partir de uma base de dados (.csv) extraída do site Kaggle, chamada: Mental Health Dataset
-"Exploring the Landscape of Mental Well-being: A Comprehensive Dataset Analysis". Criada por BHAVIK JIKADARA.
+Este projeto realiza uma análise exploratória e estatística sobre a saúde mental no mundo, utilizando a linguagem Python e a biblioteca pandas.
+
+📂 Descrição
+
+O estudo é baseado no conjunto de dados "Mental Health Dataset - Exploring the Landscape of Mental Well-being: A Comprehensive Dataset Analysis", criado por Bhavik Jikadara, disponível no Kaggle.
+
+O objetivo do projeto é compreender padrões, tendências e insights sobre a saúde mental, contribuindo para uma discussão mais informada e acessível sobre o tema.
+
+🛠️ Tecnologias Utilizadas
+
+Python
+
+pandas
+
+numpy
+
+matplotlib (para visualizações)
+
+seaborn (para gráficos avançados)
